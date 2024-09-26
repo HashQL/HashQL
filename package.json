@@ -31,6 +31,6 @@
   ],
   "devDependencies": {
     "esbuild": "0.17.10",
-    "rollup": "3.18.0"
+    "rollup": "3.29.5"
   }
 }
